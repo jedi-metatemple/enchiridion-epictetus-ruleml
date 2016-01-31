@@ -1,0 +1,3 @@
+In the "from-gutenberg.txt" file -- a few modifications I made.
+
+The quote characters (“) and (”) are replaced with (").

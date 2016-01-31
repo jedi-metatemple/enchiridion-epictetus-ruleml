@@ -1,4 +1,7 @@
 <sect>
 <title>The Enchiridion of Epictetus</title>
 
+<include ref = "chaps/i.xml" />
+<include ref = "chaps/ii.xml" />
+
 </sect>
